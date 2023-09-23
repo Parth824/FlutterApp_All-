@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "749945163333",
+    "firebase_url": "https://school-vahan-default-rtdb.firebaseio.com",
+    "project_id": "school-vahan",
+    "storage_bucket": "school-vahan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749945163333:android:c592dbafd226f6b88cdd2c",
+        "android_client_info": {
+          "package_name": "com.yaku.admins.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749945163333-ubqhr3uecrb6gsjsqs9mk0kj7ojjuh3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.admins.admin_app",
+            "certificate_hash": "06918a7afc4e1aff3c0a9cd6b4162666d2572c1f"
+          }
+        },
+        {
+          "client_id": "749945163333-me39drk2a1b7a9akqtul7kh688ktcfag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmVB2V6Vwa7zt3f9es-gMbAQD1sU8idM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749945163333-me39drk2a1b7a9akqtul7kh688ktcfag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749945163333:android:36ae5f1e006b4b778cdd2c",
+        "android_client_info": {
+          "package_name": "com.yaku.school_vahan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749945163333-4v1o4skibscdfqgegsv2vdj3mbtmk485.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.school_vahan",
+            "certificate_hash": "874aefdf45277e9b59f9bcbb8a7fe6524175017f"
+          }
+        },
+        {
+          "client_id": "749945163333-8k4ao5u6uandj4mc742k5g4opoanttgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.school_vahan",
+            "certificate_hash": "9a02a4e6dd7fd87fdad5480e8a086a81bf19e716"
+          }
+        },
+        {
+          "client_id": "749945163333-kl8fpqq1suo00j3ftg2un95ptph2rao0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.school_vahan",
+            "certificate_hash": "06918a7afc4e1aff3c0a9cd6b4162666d2572c1f"
+          }
+        },
+        {
+          "client_id": "749945163333-org477n8e4cqql3650tnr47havej8jhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.school_vahan",
+            "certificate_hash": "a92415bebafcd9fc4e6c18ffd9303f76b6e62503"
+          }
+        },
+        {
+          "client_id": "749945163333-me39drk2a1b7a9akqtul7kh688ktcfag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmVB2V6Vwa7zt3f9es-gMbAQD1sU8idM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749945163333-me39drk2a1b7a9akqtul7kh688ktcfag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749945163333:android:1a2f33589db9792f8cdd2c",
+        "android_client_info": {
+          "package_name": "com.yaku.school_vahan_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749945163333-q8l1619dqtm4cga6irur4e5a3n9sdsr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.school_vahan_driver",
+            "certificate_hash": "06918a7afc4e1aff3c0a9cd6b4162666d2572c1f"
+          }
+        },
+        {
+          "client_id": "749945163333-qc0258bmc4g4bcoecqdp1be70e8e16ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaku.school_vahan_driver",
+            "certificate_hash": "874aefdf45277e9b59f9bcbb8a7fe6524175017f"
+          }
+        },
+        {
+          "client_id": "749945163333-me39drk2a1b7a9akqtul7kh688ktcfag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmVB2V6Vwa7zt3f9es-gMbAQD1sU8idM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749945163333-me39drk2a1b7a9akqtul7kh688ktcfag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

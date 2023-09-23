@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808639604872",
+    "project_id": "jerry-da290",
+    "storage_bucket": "jerry-da290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808639604872:android:7fccc93d5e4633ceb7573d",
+        "android_client_info": {
+          "package_name": "com.astraledgestudios.jerry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYddtKUIlgUbIz-Jv_Lcer44aDViYqNC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
